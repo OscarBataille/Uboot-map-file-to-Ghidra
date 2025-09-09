@@ -1,4 +1,6 @@
-# System.map -> ImportSymbolsScript.py script
+# Uboot System.map -> Ghidra's ImportSymbolsScript.py
+
+This script allows importing Uboot's symbols into Ghidra.
 
 ## How to use
 
