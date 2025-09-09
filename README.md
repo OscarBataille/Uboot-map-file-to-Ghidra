@@ -2,9 +2,9 @@
 
 ## How to use
 
-1. Execute the script on the U-boot system.map
+1. Execute the script on the U-boot System.map file
 ```bash
- bash map_to_ghidra.sh ../System.map output.csv
+ bash map_to_ghidra.sh test/System.map output.csv
 ```
 
-Import output.csv in Ghidra with the ImportSymbolsScript.py
+2. Import output.csv in Ghidra with the ImportSymbolsScript.py
